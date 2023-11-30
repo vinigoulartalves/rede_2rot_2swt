@@ -2,7 +2,7 @@
 
 ## Contextualização
 
-Neste projeto foi feito uma segmentação de rede, em que 2 sub-redes ficaram resposáveis por distribuirem os hosts e 1 sub-rede para a conexão entre os dois roteadore. Cada rede teve sua distribução de hosts feitas através de um switch interno.
+Neste projeto foi feito uma segmentação de rede, em que 2 sub-redes ficaram resposáveis por distribuirem os hosts e 1 sub-rede para a conexão entre os dois roteadores. Cada rede teve sua distribução de hosts feitas através de um switch interno.
 Foram introduzidos e aplicados os conceitos de iPv4, Redes, Máscaras de rede, Gateway, Broadcast, PDU, Segmentação de rede e Roteamento Estático.
 
 ## Lista dos componentes
