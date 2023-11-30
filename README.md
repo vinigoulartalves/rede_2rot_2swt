@@ -1,4 +1,4 @@
-# Projeto de rede utilizando 1 roteador, 2 switchs e 4 PC - CISCO Packet Tracer
+# Projeto de rede utilizando 2 roteadores, 2 switchs e 4 PC - CISCO Packet Tracer
 
 ## Contextualização
 
